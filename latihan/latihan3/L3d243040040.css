@@ -1,0 +1,55 @@
+body {
+	background-color: #d9ecff;
+	font-family: Georgia, serif;
+	color: #004b63; 
+	margin: 50px 100px;
+}
+
+h1 {
+	font-family: "Comic Sans MS", cursive;
+	font-size: 60px;
+	color: #1b4fb3;
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+h4 {
+	text-align: center;
+	font-style: italic;
+	color: #000;
+}
+
+h3 {
+	text-align: center;
+	color: #000;
+}
+
+h3 a {
+	color: #d12f2f;
+	
+	font-weight: bold;
+}
+
+
+p {
+	text-align: justify;
+	line-height: 1.6;
+	font-size: 16px;
+}
+
+#text1 {
+	color: #d4a017; 
+}
+
+#text2 {
+	padding: 15px;
+	border-radius: 10px;
+}
+
+#link2 {
+	color: blue;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+

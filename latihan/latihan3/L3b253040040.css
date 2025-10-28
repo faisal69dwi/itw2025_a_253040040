@@ -1,0 +1,39 @@
+body {
+	background-color: aqua;
+	font-family: Georgia, serif;
+	color: #004b63; 
+	margin: 40px;
+}
+
+h1 {
+	font-family: "Comic Sans MS", cursive;
+	font-size: 60px;
+	color: darkblue;
+	text-align: center;
+}
+
+h4 {
+	text-align: right;
+	font-style: italic;
+	color: #000;
+}
+
+h3 {
+	color: darkblue;
+}
+
+h3 a {
+	color: white;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+p {
+	text-align: justify;
+	line-height: 1.5;
+	color: #00556b;
+}
+
+#text1{
+    color: orange;
+}
