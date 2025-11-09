@@ -27,7 +27,7 @@ body {
     transform: translate(-50%, -50%);
     width: 60vw; 
     height: 30vw; 
-    background-image: url(img/lolo.png); 
+    background-image: url(../img/lolo.png);
     background-size: contain; 
     background-repeat: no-repeat;
     background-position: center;
